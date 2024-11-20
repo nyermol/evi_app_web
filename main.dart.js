@@ -10514,6 +10514,7 @@ Gx:function Gx(a,b){this.c=a
 this.a=b},
 a8o:function a8o(a,b){var _=this
 _.d=a
+_.e=!1
 _.a=null
 _.b=b
 _.c=null},
@@ -59218,8 +59219,9 @@ A.aHh.prototype={
 $1(a){return A.aYs(this.a.a.c)},
 $S:611}
 A.aHi.prototype={
-$2(a,b){$.aw.p4$.push(new A.aH9(a))
-return A.aW7(null,b,null,new A.aHa(this.a),t.px,t.it)},
+$2(a,b){var s=this.a
+if(!s.e){s.e=!0
+$.aw.p4$.push(new A.aH9(a))}return A.aW7(null,b,null,new A.aHa(s),t.px,t.it)},
 $S:612}
 A.aH9.prototype={
 $1(a){return this.a6q(a)},
