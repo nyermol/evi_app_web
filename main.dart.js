@@ -59036,7 +59036,7 @@ s=9
 return A.y(k.i9(o.b.c,o.c.c,o.d.c,new A.aFJ(c)),$async$$0)
 case 9:A.dR(b,!1).d5()
 a=$.ey.aS()
-A.lv(null,A.cf(A.dW(A.cH(A.a([B.b9u,A.cf(null,$.ey.aS()*0.03,null),B.b9t],t.D),B.ak,B.hb,B.ae),null,null),a*0.12,null),b,"\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d!")
+A.lv(null,A.cf(A.dW(A.cH(A.a([B.b9u,A.cf(null,$.ey.aS()*0.03,null),B.b9t],t.D),B.ak,B.hb,B.ae),null,null),a*0.3,null),b,"\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d!")
 q=1
 s=6
 break
@@ -131393,8 +131393,8 @@ B.b8B=new A.t(!0,B.Q,null,"Roboto",null,null,null,null,null,null,null,null,null,
 B.b8s=new A.t(!0,B.Q,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.F,null,null,null,"whiteMountainView labelMedium",null,null,null,null)
 B.b80=new A.t(!0,B.Q,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.F,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.b9s=new A.eP(B.b7H,B.b95,B.b8L,B.b6a,B.b8E,B.b7B,B.b9a,B.b6M,B.b7f,B.b8x,B.b61,B.b8N,B.b8B,B.b8s,B.b80)
-B.b9t=new A.mu("\u0414\u043b\u044f Android - \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u0431\u0443\u0434\u0435\u0442 \u0441\u043a\u0430\u0447\u0435\u043d \u0432 \u0424\u0430\u0439\u043b\u044b",null,B.tp,B.fi,null,null,null,null,null)
-B.b9u=new A.mu("\u0414\u043b\u044f IOS - \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442 \u0432 \u043d\u043e\u0432\u043e\u043c \u043e\u043a\u043d\u0435",null,B.tp,B.fi,null,null,null,null,null)
+B.b9t=new A.mu("\u0414\u043b\u044f Android - \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0435 \u043e\u0431 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0439 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0435 \u0444\u0430\u0439\u043b\u0430. \u0421\u0430\u043c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 \u041c\u043e\u0438 \u0444\u0430\u0439\u043b\u044b (\u0424\u0430\u0439\u043b\u044b) - \u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438.",null,B.tp,B.fi,null,null,null,null,null)
+B.b9u=new A.mu('\u0414\u043b\u044f IOS - \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442 \u0432 \u043d\u043e\u0432\u043e\u043c \u043e\u043a\u043d\u0435. \u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u043d\u0430 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e \u043c\u043e\u0436\u043d\u043e \u0447\u0435\u0440\u0435\u0437 \u043a\u043d\u043e\u043f\u043a\u0443 "\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f".',null,B.tp,B.fi,null,null,null,null,null)
 B.hw=new A.mu(":",null,null,null,null,null,null,null,null)
 B.SO=new A.a16(0,"system")
 B.b9C=new A.a16(2,"dark")
